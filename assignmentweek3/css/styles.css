@@ -1,0 +1,28 @@
+body{
+    background-color: #7d0633;
+    color: white;
+    font-size: 16px;
+}
+
+#header-nav{
+    background-color: yellow;
+}
+
+.navbar-brand{
+    color: yellowgreen;
+    
+}
+.navbar-toggler{
+    background-color: grey;
+}
+@media(min-width:760px){
+    .navbar-toggler{display: none;
+}
+}
+
+
+.text-center{
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 50px;
+}
